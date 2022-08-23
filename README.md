@@ -12,7 +12,7 @@ json-server --watch db.json
 ```
 
 
-## To-to-list-app build app (Adım-2)
+## Member-add-to-list build app (Adım-2)
 
 ```
 npm install
